@@ -1,0 +1,7 @@
+# image root
+ train: ./hagwarts/images
+ val: ./hagwarts/images
+ # number of classes
+ nc: 4
+ # class names
+ names: ['Gryffindor' , 'Hufflepuff' , 'Ravenclaw' , 'Slytherin']
